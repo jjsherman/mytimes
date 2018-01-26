@@ -131,3 +131,9 @@ div {
   padding: 11px 20px;
   display: block;
 }
+
+.stories {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 17px;
+}
