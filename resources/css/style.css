@@ -107,7 +107,7 @@ div {
 }
 
 .cat-ceo.image-content {
-  url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-1.png); 
+  background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-1.png); 
  }
 
  img.cookie {
